@@ -42,6 +42,7 @@ Create account:
 
 Perform transaction:
 - Enter the source account ID, destination account ID, amount, transaction reason, and transaction type (flat fee or percentage fee).
+- Account ID must be written in this format: ACC1 or ACC2 and so on
 
 Withdraw money:
 - Enter the account ID and amount to withdraw money from an account.

@@ -68,6 +68,11 @@ List account transactions:
 Exit:
 - Exit the application.
 
+Extra feature:
+- After the operation that we chose has been completely finished, with all its sub steps, the user will be asked if he/she wants to continue interacting with the bank system or not.
+- If YES, then the Bank System Menu will appear to the user, and the user can choose among the options, while the program performs the same as earlier.
+- If NO, then the program will terminate, appearing a message to the user telling him/her why the program terminated. 
+
 ## Exception Handling
 
 The application includes exception handling to manage errors such as:
